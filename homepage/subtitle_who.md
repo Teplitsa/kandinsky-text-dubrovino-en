@@ -1,10 +1,10 @@
-title="Кто мы?"  
-tags="активисты, Дубровино, Двоегорск"  
+title=""Who we are"  
+tags="activists, Dubrovino, Dvoegorsk"  
 cat="subtitle_who"  
 thumb=""  
-lead="Узнать о нашей работе"   
+lead="Find out about our initiative"   
 url="/about/"
 
 +++
 
-Информируем жителей района о возможном строительстве. Раздаем листовки, проводим сбор подписей за отмену принятого решения.
+We inform the residents of the area about the possible construction. We distribute leaflets, collect signatures to stop the construction.

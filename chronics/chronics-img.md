@@ -1,4 +1,4 @@
-title="Апрель 2017 года"  
+title="April 2017"  
 tags=""  
 cat=""  
 thumb="stadium7.jpg"  
@@ -6,6 +6,6 @@ lead=""
 
 +++  
 
-Мы начали сбор подписей под петицией с призывом к администрации Двоегорска отменить принятое решение, ccылка.
-Провели сбор волонтеров, началась работа мониторинговой службы парка на постоянной основе.
+We began collecting signatures under a petition calling on the Dvoegorsk administration to cancel the decision, link
+The volunteers group began the permanent watch of the park. 
 

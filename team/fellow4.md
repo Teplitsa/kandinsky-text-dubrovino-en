@@ -1,12 +1,12 @@
-title="Анастасия Городничева"  
-tags="команда"  
-cat="Структура инициативной группы"  
+title="Anastasiya Gorodnicheva"  
+tags="team"  
+cat="The structure of the initiative group"  
 thumb="girl12.jpg"  
-lead="Куратор работы волонтеров"  
+lead="Volunteer supervisor"  
 
 +++
 
-Куратор работы волонтеров, почта – volonteer@savepark.ru
+Volunteer supervisor, email – volonteer@savepark.ru
 
 
   

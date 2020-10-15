@@ -1,18 +1,18 @@
-title="15 июня пройдут публичные слушания по строительству стадиона"  
-tags="Новости, Дубровино, информация, анонсы"  
-cat="Новости"  
+title="First public hearing on the stadium construction to be held on June 15"  
+tags="news, Dubrovino, information"  
+cat="News"  
 thumb="public.jpg"  
-lead="15 июня 2017 года в Первомайском районе состоится первое публичное слушание по проекту планировки территории в парке Дубровино."  
+lead="The first public hearing of the the planning project regarding the territory in Dubrovino park, Pervomaisky district, will take place on June 15, 2017."  
 +++
 
-15 июня 2017 года в Первомайском районе состоится первое публичное слушание по проекту планировки территории в парке Дубровино. Согласно данному проекту предполагается строительство стадиона, что повлечет за собой вырубку 304 деревьев и потерю 4 гектаров леса. 
+The first public hearing of the project regarding the territory in Dubrovino park, Pervomaisky district, will take place on June 15, 2017. According to this project, it is planned to build a football stadium, which will entail the cutting of over 300 trees and the loss of 4 hectares of forest.
 
-Подробно с проектом можно ознакомиться по ссылкам ниже. Публичные слушания — это один из немногочисленных инструментов влияния жителей на новый проект.
+Public hearings are one of the few ways to influence a new project. Follow the links below to find out more.
 
-Жителями района создана инициативная группа во главе с градозащитником Тополевым Сергеем Викторовичем. Сейчас идет подготовка вопросов к планировщикам и консультации с юристами.
+The residents of the district have created an initiative group led by the city rights activist Sergey Viktorovich Topolev. They are preparing questions for the planners with the backup of best city lawyers.
 
-Если вы не хотите, чтобы аллеи парка были заполнены толпами фанатов, а по вечерам вы засыпали под звуки разборок болельщиков, то приходите на публичные слушания.
+If you don’t want the remains of the park to be filled with football fans, their ridiculously loud chanting and occasional violent behavior, you should definitely attend the hearings.
 
-Слушания пройдут по адресу ул. Рябинина, дом 5, «Дом Поэзии». Начало в 19:00, регистрация участников начнется в 18:00. Желательно прийти пораньше.
+The hearings will be held at Ryabinin street, 5 known as "The House of Poetry". The official beginning is at 19:00, registration will start at 18:00. It is advisable to arrive early.
 
-Распространите информацию среди родственников, знакомых, соседей и в социальных сетях.
+Spread the word, invite your neighbours and friends on social media!

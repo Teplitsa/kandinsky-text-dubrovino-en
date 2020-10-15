@@ -1,23 +1,20 @@
-title="Экспертиза и документы"  
+title="Expertise and documents"  
 tags=""   
 cat=""  
 thumb="expert-doc.jpg"  
-lead="Основные нарушения закона, связанные со строительством футбольного стадиона на территории парка Дубровино"
+lead="Major violations of the law related to the construction of a football stadium in the Dubrovino park"
 
 +++
 
-Основные нарушения закона, связанные со строительством футбольного стадиона на территории парка Дубровино
+Major violations of the law related to the construction of a football stadium in the Dubrovino park
 
-* Незаконно выдан ГПЗУ, ссылка.
-* Экспертное заключение юриста, руководителя адвокатской конторы «Рябинин и Ко», А.Ю. Рябининой, ссылка. 
-* Экспертное заключение юриста организации «Право города», «О правовых основаниях выдачи ГПЗУ», Л.Д.Стельниковой, ссылка. 
-* Незаконное разрешение на строительство, ссылка.
-* Экспертное заключение, ссылка.
+* The illegal acceptance of the master plan, link. 
+* Lawyer expertise by the head of the law firm "Ryabinin and Co", A.Yu. Ryabinina, link.
+* Lawyer expertise by the organization "City Law", "On the legal grounds for issuing the master plan", L.D.Stelnikova, link.
+* Illegal building permit, link.
+* Expert conclusion, link.
 
-#### Дополнительные документы
+#### Additional documents
 
-* Генеральный план Двоегорска, ссылка.
-* Правила землепользования и застройки Первомайского района, ссылка.
-* Об охранном статусе участка, ссылка.
-* Ответ Министерства спорта о необходимости строительства стадиона (13 апреля 2017), ссылка.
-* Ответ Министерства природных ресурсов (25 апреля 2017), ссылка.
+* The master plan of Dvoegorks, link. 
+* Land use and development rules of Pervomaisky district, link.

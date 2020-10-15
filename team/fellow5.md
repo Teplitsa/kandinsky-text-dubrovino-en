@@ -1,12 +1,12 @@
-title="Алексей Надзоров"  
-tags="команда"  
-cat="Структура инициативной группы"  
+title="Alexey Nadzorov"  
+tags="team"  
+cat="The structure of the initiative group"  
 thumb="boy17.jpg"  
-lead="Руководитель мониторинговой службы"  
+lead="Monitoring Service Manager"  
 
 +++
 
-Руководитель мониторинговой службы, почта – watch@savepark.ru
+Monitoring Service Manager, email – watch@savepark.ru
 
 
 

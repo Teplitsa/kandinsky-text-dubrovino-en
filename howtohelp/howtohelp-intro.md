@@ -1,29 +1,29 @@
-title="Что вы можете сделать прямо сейчас?"  
+title="How can you help now?"  
 tags=""  
 cat=""  
 thumb="people2.jpg"  
-lead="Просто выберите то, что вы можете сделать сегодня, и помогите сообществу."  
+lead="Just choose what you can do today and help our initiative."  
 
 +++
 
-Просто выберите то, что вы можете сделать сегодня, и помогите сообществу. Неважно, насколько большим будет ваш вклад. Каждый голос, каждая листовка, каждый звонок вашему депутату может спасти наш лес. Помните, большие свершения начинаются с маленьких шагов.
+Just choose what you can do today to help the community. It doesn't matter how big your contribution is. Every signature, every leaflet, every call to your deputy can save our forest. Remember, big things start with small steps.
 
-#### Распечатайте раздаточный материал для жителей своего дома
+#### Print a handout for your neighbours
 
-**Скачать листовки (формат А4 (ссылка).**
+**Download the leaflet (A4) - link.**
 
-#### Напишите письмо на имя:
+#### Write a letter to the deputy:
 
-* главы Администрации Первомайского района Олега Ивановича Дуба;
+* the head of the Administration of the Pervomaisky district, Oleg Ivanovich Dub;
 
-* председателя «Cтройинвеста» – Александра Петровича Бетонного;
+* the chairman of Stroyinvest - Alexander Petrovich Betonny;
 
-* пресс-службы Министерства природных ресурсов и экологии Российской Федерации.
+* press service of the Ministry of Natural Resources and Ecology of the Russian Federation.
 
-**Скачать образцы писем (ссылка).**
+**Download letter samples (link).**
 
-#### Присоединитесь в штаб команды по сохранению парка
+#### Join the headquarters of the park protection team
 
-Нужна помощь в рассылке пресс-релизов, работе с волонтерами, организации акций, ночных дежурств на месте.
+Help needed with sending out press releases, working with volunteers, organizing campaigns, night shifts in the park.
 
-**Присоединиться к нам (ссылка).**
+**Join us (link).**

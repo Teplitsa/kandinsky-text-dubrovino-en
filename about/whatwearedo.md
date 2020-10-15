@@ -1,4 +1,4 @@
-title="Что мы делаем?"  
+title="What we do"  
 tags=""  
 cat=""  
 thumb=""  
@@ -6,8 +6,8 @@ lead=""
   
 +++  
 
-<h3 style="text-align:center;">Что мы делаем?</h3>
+<h3 style="text-align:center;">What are we doing?</h3>
 
-Информируем жителей района о возможном строительстве. Раздаем листовки, расклеиваем объявления, проводим сбор подписей за отмену принятого решения. Взаимодействуем с властями и объясняем, почему строительство стадиона на территории парка плохая идея. Активно ведем офлайн и онлайн-работу с активистами и членами сообщества. Оперативно оповещаем всех заинтересованных лиц о событиях, которые происходят вокруг парка. Устраиваем дежурства и пикеты, чтобы защитить лес от вырубки.
+One of our main priorities is to keep the population well informed and update them on every step of the construction, including the plans for the nearest future. We distribute flyers and posters, collect signatures for cancelling the pro stadium decision. We also maintain the growing online community to get as much support as possible, engaging people from all over Russia and the rest of the world. We interact with the authorities in order to convince them this construction site is a horrible idea that would bring irreversible damage to the park and the city itself. We organize protests and 24/7 duty shifts in order to physically protect the forest from destruction.
 
-//Кратко расскажите, что конкретно вы делаете. Не нужно размещать здесь всю информацию о ваших проектах и программах, сделайте выжимку. Если у вашей градозащитной группы есть опыт побед, то расскажите о них и дайте гиперссылки на публикации в СМИ об этом. Люди присоединяются к тем, кто умеет достигать маленьких целей. Защита парка – это победа, акция против строительства – еще одна.
+//Briefly describe what exactly you are doing. There is no need to post all information about your projects and programs here, make a short statement. If your city protection group has victories tell us about them and give hyperlinks to publications in the media about it. People join those who know how to achieve small goals. The protection of the park is a victory, the action against construction is another one. 

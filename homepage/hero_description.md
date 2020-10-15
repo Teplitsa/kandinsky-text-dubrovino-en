@@ -1,8 +1,8 @@
 title=""  
-tags="активизм, экологи, защита"  
+tags="activism, ecologists, protection"  
 cat="hero_description"  
 thumb=""  
 lead=""  
 +++
 
-Парк Дубровино – единственный парк рядом с моим домом, где я могу гулять с детьми. Парк пытаются забрать у меня и у моих соседей. Вместе мы доказываем, почему парк нужен городу.
+Dubrovino park is the only park around my house where I can take my children for a walk. They are trying to take it away from us. Together we can prove why the park is vital for the city.

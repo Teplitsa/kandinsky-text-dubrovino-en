@@ -9,6 +9,6 @@ lead="We are a community of activists"
 
 [content name=conflict]
 
-[shortcode name="knd_image_section" content="stadium" img="stadium7.jpg" title="Мы против" text_place="ontop"]
+[shortcode name="knd_image_section" content="stadium" img="stadium7.jpg" title="We are against" text_place="ontop"]
 
 [content name=whatwearedo]

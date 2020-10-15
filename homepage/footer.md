@@ -1,21 +1,21 @@
-title="Защитим Дубровино Инициативная группа"
-tags="Дубровино, активизм, Двоегорск, защита, экология"
+title="Initiative group Save Dubrovino park"
+tags="Dubrovino, activism, Dvoegorsk, protection, ecology"
 cat="footer"
 thumb=""
 lead=""
 
 +++
 
-Если у вас есть вопросы или вы хотите присоединиться к инициативе, мы открыты.
+If you have any questions or want to join the initiative, please contact us:
 
 +(7)495-567-24-03
 info@savepark.ru
 
-О нас
-Хроники
-Новости
-Документы
-СМИ
-Как присоединиться?
-Что мы делаем?
-Контакты
+About us 
+Chronicles 
+News 
+Documents 
+Socila Media 
+How to join? 
+What we do? 
+Contacts

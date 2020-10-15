@@ -1,7 +1,7 @@
 
-title="Хроники борьбы"  
+title="Chronicles of the battle"  
 slug="history"  
-lead="инициативной группы «В защиту парка Дубровино»"
+lead="initiative group «Save Dubrovino park»"
 
 +++
 

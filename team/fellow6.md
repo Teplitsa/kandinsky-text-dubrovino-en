@@ -1,9 +1,9 @@
-title="Екатерина Спутниковая"  
-tags="команда"  
-cat="Структура инициативной группы"  
+title="Ekaterina Sputnikovaya"  
+tags="team"  
+cat="The structure of the initiative group"  
 thumb="girl14.jpg"  
-lead="Координатор работы со СМИ"  
+lead="Media coordinator"  
 
 +++
 
-Координатор работы со СМИ, почта – press@savepark.ru
+Media coordinator, email – press@savepark.ru

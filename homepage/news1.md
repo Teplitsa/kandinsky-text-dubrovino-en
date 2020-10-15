@@ -1,6 +1,6 @@
-title="15 июня пройдут публичные слушания по строительству стадиона"  
-tags="Новости, Дубровино, информация, анонсы"  
+title="First public hearing to be held on June 15"  
+tags="News, Dubrovino, Information"  
 cat="news"  
 thumb="public.jpg"  
-lead="15 июня 2017 года в Первомайском районе состоится первое публичное слушание по проекту планировки территории в парке Дубровино."  
+lead="The first public hearing of the the planning project regarding the territory in Dubrovino park, Pervomaisky district, will take place on June 15, 2017."  
 +++

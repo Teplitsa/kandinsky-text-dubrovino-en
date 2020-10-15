@@ -1,17 +1,17 @@
-title="Защитники парка выпустили брошюру «Парк Дубровино: легкие нашего города»"  
-tags="Новости, Дубровино, брошюра, экология"  
+title="Park defenders released a brochure "Park Dubrovino: the lungs of our city""  
+tags="news, Dubrovino, ecology, brochure"  
 cat="Новости"  
 thumb="news3.jpg"  
-lead="Активисты Первомайского района совместно с общественной организацией «Экологи Двоегорска» выпустили брошюру «Парк Дубровино: легкие нашего города»."  
+lead="Activists of the Pervomaisky District, together with the public organization "Ecologists of Dvoegorsk", released a brochure "Park Dubrovino: the lungs of our city»."  
 +++
 
-Активисты Первомайского района совместно с общественной организацией «Экологи Двоегорска» выпустили брошюру «Парк Дубровино: легкие нашего города».
+Activists of the Pervomaisky District, together with the public organization "Ecologists of Dvoegorsk", released a brochure "Park Dubrovino: the lungs of our city. 
 
-В брошюре приведены аргументы в защиту парка, дана памятка жителям района, что нужно делать и какие раздаточные материалы необходимо распространять. 
+The brochure contains arguments on why the park is vital for the city’s ecological environment, as well as memos to the residents on what can be done to prevent the deforestation and leaflets samples for distribution. 
 
-> Мы привлекли к работе дизайнеров и иллюстраторов, чтобы всем было наглядно понятно, почему без парка Дубровино город не сможет жить дальше. Долго ли может человек прожить без легких? Нет. Почему кто-то решил, что стадион и вырубка леса не причинят никакого вреда и урона? Экологи и географы кафедры экологии и природопользования Двоегорского государственного университета привели научную аргументацию о том, что ландшафт всего парка попадает в охранную зону и нуждается в защите. 
+> We have drawn designers and illustrators into work so that everyone can clearly understand why the city cannot live on without Dubrovino Park. Can a person live without lungs? No. Why did someone decide that the stadium and the deforestation would not cause any harm or damage? Ecologists and geographers of the Department of Ecology and Nature Management of Dvoyegorsk State University presented a scientific reasons why the landscape of the entire park falls into a protected zone and needs protection. 
 
-Брошюры будут доступны в штаб-квартире «Экологи Двоегорска», а также во время публичных акций и мероприятий в защиту парка. С электронным вариантом буклета можно ознакомиться, перейдя по ссылке (формат PDF).
+The brochures will be available at the headquarters of “Ecologists of Dvoegorsk”, and also during public events supporting the cause. The PDF version can be found online here (link).
 
-Общий тираж брошюры – **3 000 экземпляров**.
+Total circulation of the brochure - **3 000 copies**.
 

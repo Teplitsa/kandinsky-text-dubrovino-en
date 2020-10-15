@@ -1,18 +1,17 @@
 
-title="Инициативная группа «В защиту парка Дубровино»: вместе остановим уничтожение леса».  
+title="Initiative group Save Dubrovino park: together we can stop the deforestation"  
 tags=""  
 cat=""  
 thumb="park6.jpg"  
 lead=""  
 +++  
-При оказании финансовой помощи инициативе пользователь заключает договор пожертвования путем акцента публичной оферты, который находится здесь (Линк).
+Any financial assistance provided to the initiative is regulated by donation agreement, which is located here (Link).
 
-Сайт разработан Теплицей социальных технологий в рамках проекта «Кандинский».
+The site was developed by the Greenhouse of Social Technologies within the Kandinsky project.
 
-Подпишитесь на оперативные новости (форма подписки)
+Subscribe to our news channel (form)
 
-Активные ссылки 
+Active links
 
-О нас. Хроника событий. Документы и экспертиза. Что можно сделать. Как присоединиться. Контакты
-Кнопки социальных сетей.
-Все материалы сайта доступны по лицензии Creative Commons СС-BY-SA 3.0.
+About us. Chronicles. Expertise and Documents. What can be done. How to join. Contacts Social networks. 
+All site materials are available under Creative Commons СС-BY-SA 3.0 license. 

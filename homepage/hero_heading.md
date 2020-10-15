@@ -1,8 +1,8 @@
 title=""  
-tags="активизм, экологи, парк"  
+tags="activism, ecologists, park"  
 cat="Hero_heading"  
 thumb=""  
 lead=""  
 +++
 
-Меня зовут Маша, и мне надоело
+My name is Masha and I’ve had enough

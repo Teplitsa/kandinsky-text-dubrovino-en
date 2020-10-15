@@ -1,12 +1,12 @@
-title="Помочь нам"  
+title="Help us"  
 tags=""  
-cat="Как помочь"  
+cat="How can you help"  
 thumb="donations.jpg"  
 lead=""  
 age=""  
 target=""  
 +++
  
-Деятельность нашей группы возможна только благодаря пожертвованиям людей и частных компаний. Мы продолжаем нашу работу благодаря вам!
+The activity of our group is solemnly fueled by donations from individuals and private companies. We continue our work thanks to you!
 
-Воспользуйтесь одним из онлайн-способов или присоединяйтесь как волонтер.
+Use one of the online methods or join us as a volunteer.

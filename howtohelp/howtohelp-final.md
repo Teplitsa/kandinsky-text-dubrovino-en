@@ -1,4 +1,4 @@
-title="Что вы можете сделать прямо сейчас?"  
+title="How can you help?"  
 tags=""  
 cat=""  
 thumb=""  
@@ -6,4 +6,5 @@ lead=""
 
 +++
 
-//Напишите конкретные действия, которые сможет выполнить любой житель района. В вашей команде будут люди, готовые работать каждый день. Но также будут те, у кого есть только 5 минут. Чем больше действий с разной степенью вовлеченностью вы придумаете, тем больше людей сможете привлечь.
+//Write down specific actions that anyone in the area can do. Your team will have people ready to work every day. But there will also be those who only have 5 minutes. The more actions you come up with with varying degrees of engagement, the more people you can attract.
+

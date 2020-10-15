@@ -1,10 +1,10 @@
-title="Что можно сделать?"  
-tags="активисты, Дубровино, парк"  
+title="What can be done?"  
+tags="activists, Dubrovino, park"  
 cat="subtitle_act"  
 thumb=""  
-lead="Начать защищать"  
+lead="Start defending"  
 url="/howtohelp/"
 
 +++  
 
-Каждый голос, каждая листовка, каждый звонок вашему депутату может спасти лес. Помните, большие свершения начинаются с малых шагов.
+Every vote, every leaflet, every call to your deputy can save the forest. Remember, big deeds start with small steps.

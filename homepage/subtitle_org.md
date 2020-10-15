@@ -1,8 +1,8 @@
 title=""  
-tags="активизм, экологи, Дубровино"  
+tags="activism, ecologists, Dubrovino"  
 cat="subtitle_org"  
 thumb=""  
 lead=""  
 +++
 
-Инициативная группа «В защиту парка Дубровино»
+Initiative group “Save Dubrovino Park”

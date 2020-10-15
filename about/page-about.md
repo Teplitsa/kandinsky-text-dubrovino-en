@@ -1,7 +1,7 @@
 
-title="О нас"  
+title="About us"  
 slug="about"  
-lead="Мы – сообщество активных жителей Двоегорска"
+lead="We are a community of activists"
 
 +++
 

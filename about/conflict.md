@@ -1,14 +1,14 @@
-title="В чем конфликт?"  
+title="The conflict"  
 tags=""  
 cat=""  
 thumb=""  
 lead=""  
 +++  
 
-<h3 style="text-align:center;">В чем конфликт?</h3>
+<h3 style="text-align:center;">What is the issue? </h3>
  
-Все началось с того, что администрация Двоегорска приняла решение о строительстве футбольного стадиона в центре рекреационно-природной зоны.
+On March 15, 2017 the Administration of Dvoegorsk made a decision to build a football stadium right in the middle of the park of Dubrovino.
 
-> «Каждый вечер я выгуливаю свою собаку в парке Дубровино. В тот вечер я увидела, что мои знакомые, которые тоже были на прогулке с питомцами, что-то оживленно обсуждают. Как выяснилось, вскоре должна была начаться стойка огромного стадиона. Я смотрела на поле, на дубы, на моего резвого Джефа и не могла представить, что вскоре здесь будут разборки фанатов и крики «Го-о-ол!». Нет. Этому не бывать. Мы спасем Дубровино. И у нас все получится».
+> “Every day I take my dog for a walk in the park, like many of my neighbours. One evening I noticed some people who looked concerned and as it turned out they were discussing the upcoming construction of a huge stadium that was supposed to begin really soon, and I couldn’t believe it. I looked at the blooming fields surrounded by towering oaks, I saw my playful dog Jeff running around in the grass...and it broke my heart to think they would take this away from us and replace this quiet piece of nature with yet another concrete monstrosity. Yelling football fans everywhere... This can’t be. We won’t let it happen”
 
-//Начните с истории. Людям нравятся истории, они затягивают, заставляют сопереживать, примерить ситуацию на себя или своих родных, зацепите пользователя и ведите его дальше.
+//Start with a story. People like stories, it is involving, make them empathize and try on the situation for themselves or their relatives, engage the user and lead him on.

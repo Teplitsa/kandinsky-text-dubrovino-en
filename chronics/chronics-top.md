@@ -1,4 +1,4 @@
-title="Хроники борьбы"  
+title="Chronicles of the battle"  
 tags=""  
 cat=""  
 thumb="protest4.jpg"  
@@ -6,13 +6,13 @@ lead=""
 
 +++
 
-Мы описываем самые значимые события, произошедшие во время нашей защиты парка. Еще в марте нас было 10 человек, и мы не знали, что мы можем противопоставить красивому макету стадиона. После первого ночного лагеря у нас появился ответ: 
+We describe the most meaningful events of our resistance. In the beginning we had around 10 people not knowing what can be done against the well presented blueprint of the stadium. After the first night of the volunteer camp we got our answer: 
 
-> «С парком Дубровино у каждого есть теплые воспоминания: игры с друзьями, прогуливание уроков, первые свидания, вечерние прогулки с семьей и детьми. Это больше, чем парк. Это часть нашей жизни».
+> “Everyone has their warm memories with Dubrovino: playing with friends, going on first dates, skipping school, walking with their loved ones after a long day of work, meeting new friends...It is more than a park. It is a significant part of our lives”.
 
-**Март 2017 года**
+**March 2017**
 
-15 марта – администрация Двоегорска приняла решение о строительстве в центре рекреационно-природной зоны футбольного стадиона.
-17 марта – организовали первую акцию протеста жителей Первомайского района. Требование назначить публичные слушания по вопросу строительства стадиона на территории парковой зоны.
-24 марта – провели вторую акцию протеста и запустили первую медиакампанию по распространению информации о недопустимости строительства на территории парка. Организовали пресс-конференцию.
+March 15: the Dvoegorsk administration has made a decision to build a football stadium in the middle of the natural recreation zone of Dubrovino. 
+March 17: the first organized protest against the decision. The people of Pervomaisky District demanded to arrange public hearings on the issue.  
+March 24: the second organized protest. The first media campaign to spread awareness was launched.The first press conference against the stadium.
 

@@ -1,21 +1,21 @@
-title="Элементы оформления"  
+title="Design elements"  
 tags=""  
 cat=""  
 thumb=""  
-lead="Эта страница содержит примеры элементов оформления текстов"  
+lead="This page contents examples of design elements"  
 
 +++
 
-<strong>Благотворительная организация</strong> — неправительственная, <em>негосударственная</em> организация, созданная для осуществления <a href="https://ru.wikipedia.org/wiki/Благотворительная_организация" target="_blank" rel="noopener">благотворительной деятельности</a>. Задачей организаций является <ins>осуществление целевых программ</ins> социальной поддержки категорий населения, содействия науке и образованию, <del>поддержки культуры и искусства</del>, охраны здоровья и пропаганды здорового образа жизни, охраны окружающей среды.
+<strong>A Charitable organization</strong> is a <em>non-governmental</em> created to carry out <a href="https://en.wikipedia.org/wiki/Charitable_organization" target="_blank" rel="noopener">charitable activities</a>. The goal of the organization is to <ins>implement targeted programs</ins> of social support for various categories of the population, promotion of science and education, <del>support of culture and art</del>, health protection and promotion of a healthy lifestyle, environmental protection.
 
-<h3>H3. Подзаголовок в текcте</h3>
+<h3>H3. Subtitle</h3>
 
-Международная классификация некоммерческих организаций выделяет благотворительные организации в отдельную группу, в которую входят:
+The international classification of non-profit organizations distinguishes charitable organizations into a separate group, which includes:
 
 <ul>
-    <li>фонды, предоставляющие гранты (в том числе частные, корпоративные, коммунальные и общественные);</li>
-    <li>организации, поощряющие волонтёрскую деятельность (в том числе вербующие, обучающие и распределяющие волонтёров);</li>
-    <li>организации по сбору пожертвований, в том числе в форме лотерей.</li>
+    <li>foundations that provide grants (including private, corporate, communal and public);</li>
+    <li>organizations that encourage volunteer activity (including recruiting, training and distributing volunteers);</li>
+    <li>organizations for donation collection, including lotteries.</li>
 </ul>
 
 <h4>H4. Подзаголовок в текcте встречается</h4>
@@ -28,17 +28,17 @@ lead="Эта страница содержит примеры элементов
     <li>организации по сбору пожертвований, в том числе в форме лотерей.</li>
 </ol>
 
-<h5>H5. Подзаголовок в текcте встречается</h5>
+<h5>H5. Subtitle in the text</h5>
 
-Возникновение организованной благотворительности в Европе (в том числе на Руси) принято связывать с деятельностью монастырей.
+The origin of organized charity in Europe (including Russia) is usually associated with the activities of monasteries.
 
-<h6>H6. Подзаголовок в текcте встречается</h6>
+<h6>H6. Subtitle in the text</h6>
 
-После крещения Руси князь Владимир уже в 996 году сделал призрение бедных официальной обязанностью духовенства. Для финансирования монастырей, церквей и больниц была введена десятина, и церкви и монастыри оставались организациями, оказывавшими помощь «сирым и убогим» на протяжении веков.
+After the baptism of Russia in 996, Prince Vladimir made the charity of the poor an official duty of the priesthood. Tithing was introduced to finance monasteries, churches and hospitals, and they remained responsible to provide aid to the poor for centuries.
 
-<blockquote>В России переход от благотворительности на государственном уровне к частным и общественным благотворительным обществам состоялся в середине XIX века. Если до этого для образования благотворительной организации обязательно требовалось монаршее соизволение, что тормозило развитие частной филантропии — до 1861 года было образовано менее сотни организаций, — то с 1861 года, когда вопросы частной благотворительности были переданы министерству внутренних дел.
-<strong>— Википедия</strong></blockquote>
+<blockquote>In Russia the transition from state charity to private and public charitable societies took place in the middle of the 19th century. Before that  the royal permission was required to establish the organisation, which hampered the development of private philanthropy: until 1861, less than a hundred organizations were formed. But in 1861 all issues of private charity were transferred to the Ministry of the Interior.
+<strong>— Wikipedia</strong></blockquote>
 
-Похожая ситуация сложилась и в других европейских странах — так, в Англии богадельни открывались в основном при монастырях, начиная с датируемого тем же веком указа саксонского короля Этельстана об учреждении такого заведения в Йорке (а возможно, и предшествуя ему); к середине XVI века в Англии насчитывалось порядка 800 богаделен и больниц, но после роспуска монастырей от этого числа уцелели лишь немногие, которым предстояло стать светскими организациями.
+A similar situation developed in other European countries: in England almshouses were operated mainly by monasteries, starting with the decree of the Saxon king Athelstan, dated the same century, to establish such an institution in York (and possibly preceding it); by the middle of the 16th century, there were about 800 almshouses and hospitals in England, but after the dissolution of the monasteries, only a few survived, which were to become secular organizations.
 
-Великая депрессия показала неспособность существующих благотворительных организаций справиться с небывалым падением благосостояния общества. В частности, в США крахом закончились попытки администрации Гувера и первого кабинета Рузвельта решить проблему с помощью добровольных обществ предыдущего поколения, что привело к принятию политики «Нового курса» с её массовыми публичными работами и налоговой реформой, призванной перераспределить сверхдоходы богатейшего слоя населения.
+The Great Depression showed the inability of existing charities to cope with an unprecedented decline in the welfare of society. In particular, in the United States, the attempts of the Hoover administration and the first Roosevelt cabinet to solve the problem with the help of the voluntary societies of the previous generation ended in failure, which led to the adoption of the New Deal policy with its massive public works and tax reform designed to redistribute the surplus incomes of the richest segment of the population.

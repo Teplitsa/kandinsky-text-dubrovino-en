@@ -1,7 +1,7 @@
-title="Активисты парка Дубровино передали 20000 обращений в Администрацию Первомайского района"  
-tags="Новости, Дубровино, петиция"  
+title="Dubrovino Park activists sent 20,000 appeals to the Pervomaisky District Administration"  
+tags="news, Dubrovino, petition"  
 cat="news"  
 thumb="petition.jpg"  
-lead="Защитники парка Дубровино вышли к Администрации 14 мая и передали более 20 000 подписей против строительства стадиона в парке Дубровино."  
+lead="Defenders of Dubrovino Park went to the Administration on May 14 and handed over 20,000 signatures against the construction of a stadium in Dubrovino Park."  
 +++
 

@@ -1,9 +1,9 @@
 title=""  
-tags="активизм, экологи, Дубровино"  
+tags="activism, ecologists, Dubrovino"  
 cat="subtitle_slogan"  
 thumb=""  
 lead=""  
 
 +++
 
-Мы – простые жители Двоегорска. Наша задача – остановить вырубку леса в парке Дубровино. Только вместе мы сможем отстоять парк.
+We are ordinary residents of Dvoegorsk. Our goal is to stop the deforestation in Dubrovino Park. Together we can save the park!

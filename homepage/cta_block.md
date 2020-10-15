@@ -1,10 +1,10 @@
-title="Нас поддерживает 300 семей Двоегорска"  
-tags="Новости, петиция, Дубровино"  
+title="We are supported by over 300 families of Dvoegorsk"  
+tags="news, petition, Dubrovino"  
 cat="cta_block"  
 thumb=""  
-lead="Подпишите петицию"  
+lead="Sign the petition"  
 url="/gethelp/"
 
 +++  
 
-Мы объединились, но нам нужна ваша помощь. Поддержите нас – подпишите петицию.
+We are united, but we still need your help. Sign the petition.

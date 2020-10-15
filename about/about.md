@@ -1,4 +1,4 @@
-title="Инициативная группа «В защиту парка Дубровино»"  
+title="Инициативная группа «Initiative group Save Dubrovino Park»"  
 tags=""  
 cat=""  
 thumb=""  
@@ -6,6 +6,7 @@ lead=""
 
 +++
 
-Наша задача – остановить вырубку леса в парке Дубровино в Первомайском районе. Для этого мы объединились в марте 2017 года. Все началось с небольшой группы активистов, сейчас нас уже **75 человек**.
+Our goal is to stop the unlawful deforestation of Dubrovino park, a recreational natural zone in a small town of Dvoegorsk, Pervomaisky District.
+We started off as a handful of activists back in March 2017, and as of now we have over **75 people** actively engaged. 
 
-//Название вашей инициативы должно отражать суть проблемы, которую вы собираетесь решать: защита парка, остановка строительства, защита культурного объекта. Пишите заголовок так, чтобы каждый, кто прочтет его, сразу понял, чем вы занимаетесь.
+//The name of your initiative should reflect the essence of the problem you are going to solve: protecting the park, stopping construction, protecting a cultural site. Write your headline so that everyone who reads it will immediately understand what you are doing.

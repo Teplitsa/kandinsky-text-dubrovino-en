@@ -1,4 +1,4 @@
-title="Что вы можете сделать прямо сейчас?"  
+title="How can you help?"  
 tags=""  
 cat=""  
 thumb=""  
@@ -6,10 +6,10 @@ lead=""
 
 +++
 
-#### Делитесь новостями из наших групп в социальных сетях  
+#### Share the news on social media
 
-Приглашайте в группы во ВКонтакте и Facebook своих соседей. Хэштеги для всех социальных сетей: #savedubrovino #спасемдубровино #люблюдубровино #остановимстройку
+Invite your neighbors and friends to VK.com and Facebook groups. Hashtags for all social networks: #savedubrovino #loveDubrovino
 
-#### Поддержите нас финансово
+#### Support us
 
-Организация ночного лагеря, печатание листовок, работа штаба и мониторингового отдела требуют финансовых ресурсов. Любой вклад для нас важен.
+Organization of the night camp, printing of leaflets, work of the headquarters and the monitoring department require financial resources. Any contribution is important to us.

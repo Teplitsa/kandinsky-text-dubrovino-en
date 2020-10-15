@@ -1,21 +1,17 @@
-title="Активисты парка Дубровино передали 20000 обращений в Администрацию Первомайского района"  
-tags="Новости, Дубровино, петиция"  
+title="Dubrovino Park activists sent 20,000 appeals to the Pervomaisky District Administration"  
+tags="news, Dubrovino, petition"  
 cat="Новости"  
 thumb="petition.jpg"  
-lead="Защитники парка Дубровино вышли к Администрации 14 мая и передали более 20 000 подписей против строительства стадиона в парке Дубровино."  
+lead="Dubrovino Park protectors came up to the Pervomaisky District Administration on May 14, 2017 passing 20,000 signatures against the unlawful construction in the middle of the natural zone."  
 +++
 
-Активисты парка Дубровино передали 20000 обращений в Администрацию Первомайского района
+Dubrovino Park protectors came up to the Pervomaisky District Administration on May 14, 2017 passing 20,000 signatures against the unlawful construction in the middle of the natural zone. Over 100 people participated.
 
-Защитники парка Дубровино вышли к Администрации 14 мая 2017 года и передали более 20 000 подписей против строительства стадиона в парке Дубровино.
+Among the appeals sent to the Administration were:
 
-В передаче подписей участвовало более 100 человек. 
+1. 17838 petition signatures.
+2. 2008 residents’ signatures of Pervomaisky district against deforestation and the construction of a sports stadium there.
+3. 432 appeals personally to the head of the Administration Demyanov Yuli Arkadievich.
 
-В числе обращений, переданных в приёмную Администрации были:
-
-1. 17838 подписей под петицией:
-2. 2008 подписей жителей Первомайского района против вырубки леса и постройки там спортивного стадиона.
-3. 432 обращения лично к главе Администрации Демьянову Юлию Аркадьевичу.
-
-Мы против строительства стадиона, потому что при реализации проекта будет уничтожен парк Дубровино, являющийся особо охраняемой природную территорию, и значительно ухудшится природная среда в районе.
+We oppose the construction of the stadium, because it demands the demolition of Dubrovino Park, which is a protected recreational zone, and the natural environment in the area will significantly deteriorate.
 

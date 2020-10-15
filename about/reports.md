@@ -1,4 +1,4 @@
-title="Отчеты"   
+title="Reports"   
 tags=""   
 cat=""   
 thumb=""   
@@ -7,15 +7,15 @@ slug="reports"
 
 +++
 
-Наша инициатива существует благодаря поддержки неравнодушных жителей Двоегорска. Она позволяет нам публиковать и распространять материалы о незаконном решении, вести официальную переписку, консультироваться с лучшими юристами города.
+Our initiative is supported by the people of Dvoegorsk, who are passionate about their hometown and want to preserve it’s natural zone. It enables the much needed spread of awareness, publishing, official correspondence with the authorities and consultations with top lawyers.
 
-Мы организуем добровольческие отряды, осуществляющие мониторинг ситуации и противодействующие незаконным действиям.
+There are multiple volunteer groups who are constantly monitoring the situation and are always ready to resist the ongoing illegal actions of the local government.
 
-Каждый месяц, с момента начала работы нашей группы в марте 2017, мы отчитываемся пред нашими жертвователями о потраченных средствах:
+All of our spendings have been documented since the establishment of the organisation in 2017. We make sure our monthly reports are accessible to the public:
 
-* Отчет за март 2017
-* Отчет за апрель 2017
-* Отчет за май 2017
-* Отчет за июнь 2017
-* Отчет за июль 2017
-* Отчет за август 2017
+* Report from March 2017
+* Report from April 2017
+* Report from May 2017
+* Report from June 2017
+* Report from July 2017
+* Report from August 2017

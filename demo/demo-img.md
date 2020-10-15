@@ -1,4 +1,4 @@
-title="Cекция с изображением"  
+title="Image Section"  
 tags=""  
 cat=""  
 thumb=""  
@@ -6,4 +6,4 @@ lead=""
 +++
 
 
-Важную мысль можно выделить и добавить подзаголовок  
+An important point can be highlighted and a subtitle added

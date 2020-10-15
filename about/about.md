@@ -1,4 +1,4 @@
-title="Инициативная группа «Initiative group Save Dubrovino Park»"  
+title="Initiative group Save Dubrovino Park"  
 tags=""  
 cat=""  
 thumb=""  

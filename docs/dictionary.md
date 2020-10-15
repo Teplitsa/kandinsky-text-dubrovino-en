@@ -1,31 +1,30 @@
-title="Cловарь градозащитника"  
+title="The city defender dictionary"  
 tags=""  
 cat=""  
 thumb="expert-architect.jpg"  
-lead="Здесь мы собираем все градостроительные термины и описываем специфику документов"
+lead="The specific terms and documents"
 
 +++  
 
-Здесь мы собираем все градостроительные термины и описываем специфику документов, которыми нужно владеть для успешной защиты парка.
+Here you can find a list of terms and documents you need to be familiar with in order to succeed in legal protection the Dubrovino. 
 
-**Территориальная зона** – термин, обозначающий совокупность земельных участков, для которых правилами установлен один градостроительный регламент, в равной мере распространяющийся на все земельные участки, а границы такой совокупности земельных участков обозначены на карте градостроительного зонирования с присвоением индекса каждой зоне.
+**Territorial zone** is a term denoting a set of land plots that share the same urban planning regulation, which is equally applied, and the borders of such a set of land plots are indicated on the urban planning zoning map with the assignment of a zipcode to each zone.
 
-**Генеральный план** – документ долгосрочного планирования, по меньшей мере на 20 лет.
+**A master plan** is a long-term urban planning document for at least 20 years.
 
-Главными в генеральном плане являются три позиции:
+The main topics include:
 
-* функциональные зоны. Это «крупные» решения в отношении назначения больших массивов территорий;
+* functional zoning: general decisions regarding the designation of large/unified territories according to function;
 
-* зоны планируемого размещения основных объектов капитального строительства, таких как дороги, улицы, мосты, развязки, сети и объекты инженерной инфраструктуры;
+* zones of the planned location of major capital construction facilities, such as roads, streets, bridges, interchanges, networks and engineering infrastructure facilities;
 
-* мероприятия по этапам реализации: где, что, за какие средства и кем будет строиться в ближайшие годы. 
-Принят в Двоегорске в 2011 году, ссылка.
+* activities/stages of implementation: where, what, how (by what means) it will be funded and executed. 
+Adopted in Dvoegorsk in 2011, link.
 
-**Правила землепользования и застройки** – нормативно-правовой акт органов местного самоуправления. 
-Состав Правил землепользования и застройки: 
+**Land use and development rules** is a regulatory legal act of local governments. It inclides:
 
-* Градостроительные регламенты – описание того, что можно делать, и указание на то, чего делать нельзя; 
-* Карта градостроительного зонирования – обозначения территориальных зон города, к которым приписаны градостроительные регламенты; 
-* Описание процедур порядка действий, совершаемых администрациями и частными лицами. 
+* Urban planning regulations - a description of what can be done and an indication of what cannot be done;
+* Urban zoning map - designation of the territorial zones of the city, to which the urban planning regulations are assigned;
+* Description of procedures and the order of actions performed by administrations and individuals.
 
-Приняты в Двоегорске в 2012 году, ссылка.
+Adopted in Dvoegorsk in 2012, link. 

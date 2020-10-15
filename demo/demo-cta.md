@@ -1,4 +1,4 @@
-title="Присоединяйтесь"  
+title="Join us"  
 tags=""  
 cat=""  
 thumb=""  
@@ -6,4 +6,4 @@ lead=""
 +++
 
 
-Блок призыва к действию привлекает внимание к важным ссылкам или действиям.
+A call to action block draws attention to important links or actions.

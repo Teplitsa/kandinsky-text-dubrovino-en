@@ -1,11 +1,11 @@
-title="Виталик Дубровый"  
-tags="команда"  
-cat="Структура инициативной группы"  
+title="Vitalik Dubrovyi"  
+tags="team"  
+cat="The structure of the initiative group"  
 thumb="boy19.jpg"  
-lead="Редактор сайта и социальных сетей"  
+lead="Website and social media editor"  
 
 +++
 
-Редактор сайта и социальных сетей, почта – news@savepark.ru
+Website and social media editor, email – news@savepark.ru
 
 

@@ -1,9 +1,9 @@
-title="Мы против"  
+title="The opposition"  
 tags=""  
 cat=""  
 thumb="stadium7.jpg"  
 lead=""  
 +++  
 
-Мы, жители Первомайского района, совместно с муниципальными депутатами выступили против этого решения. Строительство стадиона предполагает вырубку 304 деревьев и потери 4 гектаров леса. Это будет тяжелый удар по экологии города.
+We, the citizens of Pervomaisky District together with members of municipal administration, are against this renovation decision.The construction of the stadium demands the annihilation of 40000 square meters of the forest and over 300 trees. It’s a severe blow to the ecological environment of the area.
 

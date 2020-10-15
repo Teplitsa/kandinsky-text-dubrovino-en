@@ -1,15 +1,13 @@
-title="Почему мы считаем строительство незаконным"  
+title="Why we consider this construction illegal"  
 tags=""    
 cat=""   
 thumb="expert-word.jpg"     
-lead="Чтобы понять, почему строительство стадиона в парке незаконно, мы обратились к известному градозащитнику Анатолию Небоскребову."  
+lead="To understand the reason why we consider this construction illegal, we have asked a notorious city defender Anatoly Neboskrebov."  
 
 +++
 
-Чтобы понять, почему строительство стадиона в парке незаконно, мы обратились к известному градозащитнику **Анатолию Небоскребову**.
+To understand the reason why we consider this construction illegal, we have asked a notorious city defender **Anatoly Neboskrebov**, and here’s what he has to say.
 
-> Многие думают, что наш Двоегорск – это маленький провинциальный город, где обещания в переговорных комнатах важнее документов, но это не так. У Двоегорска было два сильных архитектора, градозащитника, которые участвовали в принятии двух важных документов для каждого города: Генеральный план и Правила землепользования и застройки. Генеральный план – это наша мечта о том, каким мы хотим видеть город через 20 лет. Это картина крупными штрихами, набросками. Согласно плану строительство этого стадиона не предусмотрено. Мне возразят и скажут: «Но ведь сложно предугадать развитие города сразу на 20-30 лет! Все поменялось. Нам нужны изменения в генплан, сейчас нам нужен стадион!». 
+> Excuse me, gentlemen. If everything was so simple, we would not be able to enjoy the views of the Vinogradovs' estate of the 18th century or the Church of St. Benedict, located in the Kholmogory valley. What kind of protection do these cultural monuments have? They are protected by the Land Use and Development Rules. It is a tool for urban planning. It looks at the city under a microscope, carefully examines every street and every square and does not allow to demolish or destroy what is not supposed to. 
 
-> И вот здесь я отвечу: «Позвольте, позвольте, господа. Если бы все было так просто, то сейчас мы бы не смогли наслаждаться видами усадьбы Виноградовых XVIII века или костелом Св. Бенедикта, расположенного в долине Холмогорья. Что же защищает эти сооружения сейчас? Их защищают Правила землепользования и застройки. Это инструмент для городского планирования. Он смотрит на город под микроскопом, внимательно изучает каждую улицу и каждый сквер и не позволяет сносить, разрушать то, что не положено. 
-
-Согласно нашему ПЗЗ парк Дубровино – это **рекреационно-природная зона**. Ее границы нельзя самовольно нарушить и построить спортивно-развлекательный объект, коим является стадион. Нет там такого. Кто выдал разрешение на строительство? Кто подписал документы с инвестором? Почему этот кто-то решил, что никто не заметит такого варварства? Нет ответа. То, что делают жители Первомайского района, достойно похвалы. Продолжайте бороться. У вас есть все аргументы, чтобы выиграть.
+According to our Land Use and Development Rules Dubrovino Park is a **recreational natural zone**. Its borders cannot be illegally violated out of nowhere hence a sports and entertainment facility, which is a stadium, cannot be built. There is no such thing. Who issued the building permit? Who signed the documents with the investor? Why did this someone decide that no one would notice such barbarity? No answer. What the residents of Pervomaisky District are doing deserves a praise. Keep fighting. You have all the arguments to win.

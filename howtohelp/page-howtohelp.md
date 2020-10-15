@@ -1,14 +1,14 @@
 
-title="Что делать?"  
+title="How can I help?"  
 slug="howtohelp"  
-lead="Выберите то, что вы можете сделать сегодня, и помогите сообществу"
+lead="Just choose what you can do today and help our initiative"
 
 +++
 
 
 [content name=howtohelp-intro]
 
-[shortcode name="knd_image_section" content="petition" img="people2.jpg" title="Подпишите петицию за сохранение парка Дубровино" text_place="ontop"]
+[shortcode name="knd_image_section" content="petition" img="people2.jpg" title="Sign the petition to save Dubrovino Park" text_place="ontop"]
 
 [content name=howtohelp-bottom]
 

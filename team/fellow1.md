@@ -1,10 +1,10 @@
 
-title="Дмитрий Алтаев"  
-tags="команда"  
-cat="Структура инициативной группы"  
+title="Dmitry Altaev"  
+tags="team"  
+cat="The structure of the initiative group"  
 thumb="boy18.jpg"  
-lead="Глава Координационного Совета"  
+lead="Head of the Coordination Council"  
 
 +++  
 
-Глава Координационного Совета, почта – altaev@savepark.ru   
+Head of the Coordination Council, email – altaev@savepark.ru   

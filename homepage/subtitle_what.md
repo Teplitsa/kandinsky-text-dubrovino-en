@@ -1,10 +1,10 @@
-title="Вырубка незаконная?"  
-tags="активисты, Дубровино, Двоегорск"  
+title="Is deforestation illegal?"  
+tags="activists, Dubrovino, Dvoegorsk"  
 cat="subtitle_what"  
 thumb=""  
-lead="Узнать историю проблемы"
+lead="The backstory of the issue"
 url="/history/"
 
 +++
 
-Все началось с того, что администрация Двоегорска приняла решение о строительстве футбольного стадиона в центре рекреационно-природной зоны.
+It all began with the unlawful decision of the Dvoegorsk administration to build a football stadium in the center of the recreational natural zone.

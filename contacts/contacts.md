@@ -1,4 +1,4 @@
-title="Контакты"  
+title="Contacts"  
 tags=""  
 cat=""  
 thumb=""  
@@ -6,5 +6,5 @@ lead=""
 
 +++
 
-Если у вас есть вопросы или вы хотите присоединиться к инициативе, пишите нам. Будем рады сотрудничеству.
+If you have any questions or would like to join the initiative, feel free to contact us. We are open to any kind of collaboration.
 

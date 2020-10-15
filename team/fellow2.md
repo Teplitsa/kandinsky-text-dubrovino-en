@@ -1,9 +1,9 @@
-title="Александр Мостовой"  
-tags="команда"  
-cat="Структура инициативной группы"  
+title="Alexander Mostovoy"  
+tags="team"  
+cat="The structure of the initiative group"  
 thumb="boy16.jpg"  
-lead="Член Координационного Совета"  
+lead="Member of the Coordination Council"  
 
 +++
 
-Член Координационного Совета, почта – mostovoy@savepark.ru 
+Member of the Coordination Council, email– mostovoy@savepark.ru

@@ -1,1 +1,1 @@
-Здесь будут картинки
+There will be images

@@ -1,4 +1,4 @@
-title="Подпишите петицию"  
+title="Sign the petition"  
 tags=""  
 cat=""  
 thumb=""  
@@ -7,8 +7,8 @@ slug="gethelp"
 
 +++
 
-Распространите информацию среди своих друзей, коллег и родственников. Эта петиция создана на платформе сhаngе.оrg, ее легко найти и подписать.
+Spread the information with your friends, colleagues and family. The petition is on the change.org platform and is easy to find and sign.
 
-Чем больше подписей нам удастся собрать, тем выше шанс сохранить парк.
+Every signature brings us closer to saving the park!
 
-Подпишите петицию и **спасите** Дубровино от уничтожения!
+Sign the petition and **prevent the destruction** of Dubrovino!

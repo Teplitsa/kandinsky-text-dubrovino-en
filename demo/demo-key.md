@@ -1,4 +1,4 @@
-title="Ключевая фраза"  
+title="Key phrase"  
 tags=""  
 cat=""  
 thumb=""  
@@ -6,4 +6,4 @@ lead=""
 +++
 
 
-Важную мысль можно выделить и добавить подзаголовок  
+An important point can be highlighted and a subtitle added  

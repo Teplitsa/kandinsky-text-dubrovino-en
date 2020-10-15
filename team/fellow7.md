@@ -1,10 +1,10 @@
-title="Мария Коллекционная"  
-tags="команда"  
-cat="Структура инициативной группы"  
+title="Maria Kollectsionnaya"  
+tags="team"  
+cat="The structure of the initiative group"  
 thumb="girl15.jpg"  
-lead="Фандрайзер"  
+lead="Fundraiser"  
 
 +++
 
-Фандрайзер, почта – money@savepark.ru
+Fundraiser, email – money@savepark.ru
 

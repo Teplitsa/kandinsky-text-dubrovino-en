@@ -1,20 +1,20 @@
-title="Как присоединиться?"  
+title="How to join?"  
 tags=""  
 cat=""  
 thumb="join8.jpg"  
-lead="Хотите быть в курсе новостей или помочь нам сохранить парк?"  
+lead="Want to stay updated or join the initiative?"  
 
 +++
 
-**Хотите быть в курсе новостей? Следить за развитием событий?**  
-Вступайте в группу во ВКонтакте и Facebook. 
+**Want to stay updated?**  
+Join our groups on Facebook and VK.com. 
 
 
-**Присоединяйтесь к нам в качестве волонтера.**  
-Актуальные задачи для волонтеров в разделе «Нужна помощь» в группе во ВКонтакте, ссылка. 
+**Join us as a volunteer**  
+Current volunteer tasks in our VK.com group (link). 
 
-**Мы готовы ответить на вопросы и дать комментарии.**  
-Журналисты, отправляйте свои вопросы. Заполните форму.
+**We are ready to answer any questions.**  
+Journalists, send your inquiries. Fill out the form. 
 
 
-//Дайте информацию, как пользователи или волонтеры могут вступить в вашу программу или стать частью проекта. Сделайте так, чтобы все было понятно с первого прочтения, «заполните форму», пройдите по ссылке. В этой части избегайте таких форм, как «позвоните нам», «напишите нам».
+//Provide information on how users or volunteers can join your program or become part of a project. Make it clear from the first reading, “fill out the form”, follow the link. In this part, avoid such forms as "call us", "write to us".

@@ -1,6 +1,6 @@
 title="Dubrovino Park activists sent 20,000 appeals to the Pervomaisky District Administration"  
 tags="news, Dubrovino, petition"  
-cat="Новости"  
+cat="News"  
 thumb="petition.jpg"  
 lead="Dubrovino Park protectors came up to the Pervomaisky District Administration on May 14, 2017 passing 20,000 signatures against the unlawful construction in the middle of the natural zone."  
 +++

@@ -1,6 +1,6 @@
 title="Park defenders released a brochure "Park Dubrovino: the lungs of our city""  
 tags="news, Dubrovino, ecology, brochure"  
-cat="Новости"  
+cat="News"  
 thumb="news3.jpg"  
 lead="Activists of the Pervomaisky District, together with the public organization "Ecologists of Dvoegorsk", released a brochure "Park Dubrovino: the lungs of our city»."  
 +++

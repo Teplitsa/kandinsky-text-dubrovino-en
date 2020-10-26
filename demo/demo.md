@@ -18,14 +18,14 @@ The international classification of non-profit organizations distinguishes chari
     <li>organizations for donation collection, including lotteries.</li>
 </ul>
 
-<h4>H4. Подзаголовок в текcте встречается</h4>
+<h4>H4. Subtitle</h4>
 
-Пронумеруем все то же самое:
+Let's number all the same:
 
 <ol>
-    <li>фонды, предоставляющие гранты (в том числе частные, корпоративные, коммунальные и общественные);</li>
-    <li>организации, поощряющие волонтёрскую деятельность (в том числе вербующие, обучающие и распределяющие волонтёров);</li>
-    <li>организации по сбору пожертвований, в том числе в форме лотерей.</li>
+    <li>foundations that provide grants (including private, corporate, communal and public);</li>
+    <li>organizations that encourage volunteer activity (including recruiting, training and distributing volunteers);</li>
+    <li>organizations for donation collection, including lotteries.</li>
 </ol>
 
 <h5>H5. Subtitle in the text</h5>
